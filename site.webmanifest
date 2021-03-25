@@ -1,6 +1,6 @@
 {
   "short_name": "thebookish.de",
-  "name": "thebookish.de - Okuduğum Kitaplar",
+  "name": "thebookish.de",
   "icons": [
     {
       "src": "https://1.bp.blogspot.com/-x05WzdnLimA/YFulYoqTGOI/AAAAAAAAR64/BXXuMFhFyIgClsrvKp90pRhit_xe_xGwACLcBGAsYHQ/s192/android-chrome-192x192.png",
@@ -13,26 +13,17 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://www.thebookish.de/",
-  "background_color": "#F2F2F2",
+  "start_url": "/",
+  "background_color": "#FFF",
   "display": "standalone",
-  "scope": "https://www.thebookish.de/",
-  "theme_color": "#F2F2F2",
-  "shortcuts": [
-    {
-      "name": "Kitaplik",
-      "short_name": "Kitaplik",
-      "description": "thebookish.de kitaplik",
-      "url": "https://www.thebookish.de/p/kitap.html",
-      "icons": [{ "src": "https://1.bp.blogspot.com/-10SHM253_A0/YFubddilTXI/AAAAAAAAR6k/PXLiaKQ_HUAtFaXwquoFKNjIkMXZt4UHACLcBGAsYHQ/s192/android-chrome-192x192.png", "sizes": "192x192" }]
-    },
-  ],
-  "description": "thebookish.de kitaplik",
+  "scope": "/",
+  "theme_color": "#FFF",
+  "description": "thebookish.de - okudugum kitaplar",
   "screenshots": [
     {
       "src": "https://1.bp.blogspot.com/-Os7cNxYOyLk/YFvCkAShAHI/AAAAAAAAR7Y/OoFr1_IFNRk3zILeYDANAs6Taz6UhjB2QCLcBGAsYHQ/s720/English.png",
       "type": "image/png",
       "sizes": "540x720"
-    },
+    }
   ]
 }
