@@ -13,10 +13,10 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/",
+  "start_url": "https://www.thebookish.de",
   "background_color": "#FFF",
   "display": "standalone",
-  "scope": "/",
+  "scope": "https://www.thebookish.de",
   "theme_color": "#FFF",
   "description": "thebookish.de - okudugum kitaplar",
   "screenshots": [
